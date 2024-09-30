@@ -1,5 +1,5 @@
 // Singleton object literal
-const userProfile = {
+let userProfile = {
     userrole: "admin",
     username: "Jane Doe",
     yearsOfEmployment: 13
